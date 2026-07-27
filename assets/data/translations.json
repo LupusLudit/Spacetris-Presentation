@@ -1,0 +1,87 @@
+{
+  "en": {
+    "title": "Spacetris",
+
+    "demo": "Demo",
+
+    "about": "About",
+    "about_text_1": "Spacetris is a 3D puzzle game in which the player operates in a three-dimensional environment where blocks can be freely rotated and moved along all axes.",
+    "about_text_2": "The objective is to arrange blocks so that horizontal layers are completed. Once a layer is filled, it disappears and the player earns points. The game ends when the stack exceeds the upper boundary of the playfield, which is visually highlighted in red.",
+    "about_text_3": "Due to the spatial nature of the game, orientation can be challenging at first. For this reason, the player can rotate the entire playfield to better adjust the view to the current situation. Additional guidance is provided through previews of upcoming and stored blocks located in the upper corners of the screen.",
+    "about_text_4": "The project aims not only to provide an engaging gameplay experience but also to develop logical thinking and spatial awareness.",
+
+    "regimes": "Game Regimes",
+    "regimes_text_1": "The game offers several singleplayer variants. Each regime is unique and presents different challenges. Below is a basic overview and description.",
+
+    "regime_1": "Regular - Arrange the Spacetris blocks into layers to gain score.",
+    "regime_2": "Jumbo - The board is larger than usual, giving you more space to place blocks.",
+    "regime_3": "Power Ups - From time to time a special power-up tile will be spawned. Hitting them with one of your blocks you will cause the game to activate the power-up (or power-down...?).",
+    "regime_4": "Blitz - You need to manage time as a resource. If you fail to clear the playing field in a set time limit, you lose. By clearing the layers you gain extra seconds to play.",
+    "regime_5": "Material - The amount of blocks which can be used is limited. Running out of them will cause you to lose. If you clear a layer, you'll get extra blocks as a reward.",
+
+    "settings": "Settings",
+    "settings_text": "In both the main menu and in-game, you can customize controls and adjust visual aspects of the game according to your preferences. If you are playing for the first time or visiting this page during a project presentation, you may encounter the default configuration, which can differ from what you might expect. Below is an overview of the basic settings to help you navigate the game more easily.",
+
+    "settings_col_action": "Action",
+    "settings_col_key": "Key",
+
+    "setting_move": "Move block",
+    "setting_rotate_ccw": "Rotate block counterclockwise",
+    "setting_rotate_cw": "Rotate block clockwise",
+    "setting_switch_x": "Switch to X axis",
+    "setting_switch_y": "Switch to Y axis",
+    "setting_switch_z": "Switch to Z axis",
+    "setting_soft_drop": "Soft drop",
+    "setting_hard_drop": "Hard drop",
+    "setting_hold": "Hold block",
+    "setting_rotate_camera_left": "Rotate camera left",
+    "setting_rotate_camera_right": "Rotate camera right",
+    "setting_pause": "Pause game",
+
+    "technologies": "Technologies",
+    "technologies_text": "Project is implemented in the Unity game engine and programmed in C#. The models were created using Blender. The images and other UI assets were mostly designed in GIMP. The architecture is modular, allowing separation of gameplay mechanics, visual representation, etc."
+  },
+
+  "cz": {
+    "title": "Spacetris",
+
+    "demo": "Ukázka",
+
+    "about": "O projektu",
+    "about_text_1": "Spacetris je 3D logická hra, ve které se hráč pohybuje v trojrozměrném prostředí, kde může jednotlivé bloky libovolně otáčet a posouvat po všech osách!",
+    "about_text_2": "Úkolem je skládat kostky tak, aby vznikaly vodorovné vrstvy – ty po zaplnění zmizí a hráč za ně získává body. Hra končí ve chvíli, kdy je překročena horní hranice herního pole, která je zde zvýrazněna červenou barvou.",
+    "about_text_3": "Vzhledem k prostorové povaze hry může být orientace zpočátku náročnější, proto je k dispozici možnost otáčet celou herní plochu a přizpůsobit si tak pohled aktuální situaci. K lepší orientaci slouží také přehled nadcházejících a odložených bloků, které se nacházejí v horních rozích obrazovky.",
+    "about_text_4": "Projekt si klade za cíl nejen poskytnout uživatelům příjemný herní zážitek, ale zároveň procvičit jejich logické uvažování a prostorovou představivost.",
+
+    "regimes": "Herní režimy",
+    "regimes_text_1": "Hra nabízí několik herních režimů pro jednoho hráče. Každá z nich je v něčem unikátní a nabízí jiné výzvy. Níže je jejich základní výčet a popis.",
+
+    "regime_1": "Regular - Skládejte Spacetris bloky do horizontálních vrstev pro ziskání bodů.",
+    "regime_2": "Jumbo - Herní pole je větší než obvykle, což vám dává více prostoru pro umísťování bloků.",
+    "regime_3": "Power Ups – Čas od času se objeví speciální bonus. Když zasáhnete vylepšení pomocí jedné ze svých kostek, aktivujete efekt daného power-upu.",
+    "regime_4": "Blitz – Čas je zde brán jako vzácný zdroj a zároveň i odměna. Pokud se vám nepodaří vyčistit hrací pole v daném časovém limitu, prohráváte. Vyčištěním vrstev získáte cenné sekundy, díky kterým můžete dál hrát...",
+    "regime_5": "Materiál - Počet bloků, které lze použít, je omezený. Pokud vám dojdou, prohrajete. Pokud vyčistíte vrstvu, získáte jako odměnu další bloky.",
+
+    "settings": "Nastavení",
+    "settings_text": "Jak v hlavním menu, tak přímo ve hře si můžete přizpůsobit ovládání či upravit vizuální aspekty hry dle svých preferencí. Pokud jste ovšem hrajete hru poprvé nebo jste například navštívili tuto stránku během prezentace projektu na školním veletrhu studenstkých prací, je dost možné, že se setkáte s továrním nastavením, které se může lišit od toho, co byste možná očekávali. Proto se níže nachází přehled základních nastavení, aby vám zjedušilo průbeh hrou.",
+
+    "settings_col_action": "Akce",
+    "settings_col_key": "Klávesa",
+
+    "setting_move": "Posunout blok",
+    "setting_rotate_ccw": "Otočit blok proti směru hodinových ručiček",
+    "setting_rotate_cw": "Otočit blok ve směru hodinových ručiček",
+    "setting_switch_x": "Změnit orienataci bloku na osu X",
+    "setting_switch_y": "Změnit orienataci bloku na osu Y",
+    "setting_switch_z": "Změnit orienataci bloku na osu Z",
+    "setting_soft_drop": "Zrychlit padání bloku",
+    "setting_hard_drop": "Okamžite spustit blok na zem",
+    "setting_hold": "Odložit blok",
+    "setting_rotate_camera_left": "Otočit kameru doleva",
+    "setting_rotate_camera_right": "Otočit kameru doprava",
+    "setting_pause": "Pozastavit hru",
+
+    "technologies": "Technologie",
+    "technologies_text": "Projekt je implementován v herním enginu Unity a je naprogramován v jazyce C#. Používané modely byly vytvořeny pomocí nástroje Blender. Obázky a další aspekty UI byly z velké části nadesignovány v programu GIMP. Architektura je modulární, takže bylo možné oddělit od sebe růrné herní mechaniky, vizuální reprezentaci, atd."
+  }
+}
